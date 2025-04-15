@@ -74,7 +74,6 @@
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="[https://github.com/Thejaggeddevil/Thejaggeddevil/blob/main/jetpack%20compose.png]?raw=true" alt="Jetpack Compose" /></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=html,css,"/></td>
     </tr>
     <tr>
