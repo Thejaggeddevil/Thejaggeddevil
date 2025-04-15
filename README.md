@@ -134,14 +134,7 @@
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thejaggeddevil&theme=darkhub)
 
-
-
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — *Cory House*
-
-![](https://github-readme-stats.vercel.app/api?username=thejaggeddevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thejaggeddevil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thejaggeddevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
