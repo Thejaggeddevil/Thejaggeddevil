@@ -54,7 +54,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack App Development Projects**
 
-- 💬 Ask me about ** App Development **
+- 💬 Ask me about **App Development**
 
 - 📫 How to reach me **mansibhandari3156@gmail.com**
 
