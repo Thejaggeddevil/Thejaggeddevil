@@ -74,11 +74,11 @@
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jetpackcompose,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jetpack compose,html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=firebase"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
@@ -89,8 +89,6 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
         <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
     </tr>
     <tr>
@@ -137,15 +135,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=thejaggeddevil&theme=darkhub)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — *Cory House*
+
+![](https://github-readme-stats.vercel.app/api?username=thejaggeddevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thejaggeddevil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thejaggeddevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 
 ---
 
-]
+
 
 
 <p align="left">
