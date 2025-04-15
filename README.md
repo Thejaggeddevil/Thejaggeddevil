@@ -1,26 +1,19 @@
 <div align="center">
-  <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, myself Arsh Tiwari!</h1>
+  <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, myself Mansi Bhandari!</h1>
 <div align="left">
 
-<div align="center">
-  <p> <a href="https://arsh-tiwari-portfolio.vercel.app/" target="_blank">View my portfolio</a></p>
-</div>
 
 <p>
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬+from+India;App+Development+Enthusiast+📊;Exploring+Blockchain+Technology+💻;Open+Source+Contributor;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬+from+India;App+Development+Enthusiast+📊;Open+Source+Contributor;)](https://git.io/typing-svg)
 </div>
 
 <br>
-<div align = "center">  
-  👨‍💻 Developer Intern<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Eterna-InfoTech<br>
-  👀 Ex-Community Manager @InAmigos Foundation<br>      
-  👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
-  🌟 Intern @Kaizen IIT Delhi and @Saarang IIT Madras<br>
-  🎯 Junior Council Member @nameSpace Community<br>
+<div align = "center">       
+  👾 Contributor @ Hacktoberfest2024 <br>   
   🫂 Looking to collaborate on Open Source Projects<br>    
    </div>
 
@@ -30,7 +23,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.arshtiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]([https://quora.com/profile/https://www.quora.com/profile/Arsh-Tiwari-23](https://www.quora.com/profile/Arsh-Tiwari-23)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mansi____bhandari/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi3115) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]([https://www.quora.com/profile/Mansii-Bhandari]) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mansi__Bhandari) 
 
 </div>
 
@@ -44,37 +37,44 @@
 
 <div align="center">
 <p>
-Fueled by a passion for innovation and a relentless curiosity, I am dedicated to crafting digital experiences that merge creativity with technical excellence. My academic journey in Computer Science Engineering at BPIT, GGSIPU, and Data Science at IIT Madras empowers me to explore the latest in app development, full-stack web solutions, and emerging technologies like Web 3.0. With a deep commitment to building impactful projects, I thrive on bringing ideas to life—whether developing dynamic applications, designing sleek websites, or diving into uncharted tech territories. My hands-on expertise spans React, MongoDB, Express.js, and a suite of modern tools that enable me to turn concepts into reality. Alongside this, I actively contribute to open-source projects, collaborate across communities, and embrace every opportunity to expand my skillset, all while maintaining a forward-thinking approach to technology🚀
+🚀 Fueled by curiosity and a drive to build meaningful tech, I'm a Computer Science Engineering student at MLVT. I’m currently diving deep into Android development using Jetpack Compose and experimenting with full-stack solutions .
+
+🛠️ I’ve built projects like a calculator, unit converter, to-do list, and even a flip timer productivity app called Turno. I've contributed to open-source through Hacktoberfest 2024. I show up, build, learn—and that’s what matters most.
+
+🌐 I'm also passionate about making tech simple and accessible. Whether it’s solving DSA, managing events, or learning new stacks—I’m all in.
+
+💬 Open to collabs, open source, and learning with like-minded folks. Let’s turn ideas into impact.
+
 </p>
 
 <br>
 </div>
 
-- 🌱 I’m currently learning **NextJS, Appwrite**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on **Full Stack App Development Projects**
 
-- 💬 Ask me about **Web Development, App Development , Blockchain**
+- 💬 Ask me about ** App Development **
 
-- 📫 How to reach me **arshtiwari12345@gmail.com**
+- 📫 How to reach me **mansibhandari3156@gmail.com**
 
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
 <br>
 <br>
 
-[![An image of @arshtiwari2004 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshtiwari2004)](https://holopin.io/@arshtiwari2004)
+[![An image of @thejaggeddevil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thejaggeddevil)](https://holopin.io/@thejaggeddevil)
 
 
 <div align="center">
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,kotlin,python"/></td>
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,redux,materialui,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jetpackcompose,html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -82,7 +82,7 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -95,11 +95,11 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,replit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio,firebase,figma"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=notion,androidstudio,firebase,figma"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
@@ -109,49 +109,49 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 
 
 #  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ArshTiwari2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArshTiwari2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshTiwari2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?username=thejaggeddevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thejaggeddevil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thejaggeddevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <h2 align="center">Profile Stats</h2>
 
-
-<a href="https://github.com/ArshTiwari2004">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshTiwari2004&theme=algolia"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArshTiwari2004&theme=algolia" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=ArshTiwari2004&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshTiwari2004&theme=algolia&hide_border=true&stroke=0000"  />
+<a href="https://github.com/thejaggeddevil">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejaggeddevil&theme=algolia"/>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thejaggeddevil&theme=algolia" />
+   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=thejaggeddevil&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaggeddevil&theme=algolia&hide_border=true&stroke=0000"  />
 </a>
 
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshTiwari2004&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=thejaggeddevil&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
 
-<img src="https://stats.quine.sh/ArshTiwari2004/github?theme=dark" width="400">
-<img src="https://stats.quine.sh/ArshTiwari2004/dependencies?theme=dark" width="400"><br>
-<img src="https://stats.quine.sh/ArshTiwari2004/topics-over-time?theme=dark" width="400">
-<img src="https://stats.quine.sh/ArshTiwari2004/languages-over-time?theme=dark" width="400">
+<img src="https://stats.quine.sh/thejaggeddevil/github?theme=dark" width="400">
+<img src="https://stats.quine.sh/thejaggeddevil/dependencies?theme=dark" width="400"><br>
+<img src="https://stats.quine.sh/thejaggeddevil/topics-over-time?theme=dark" width="400">
+<img src="https://stats.quine.sh/thejaggeddevil/languages-over-time?theme=dark" width="400">
+
 
 ##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArshTiwari2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=thejaggeddevil&theme=darkhub)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArshTiwari2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
 ---
 
+]
 
-[![](https://visitcount.itsvg.in/api?id=ArshTiwari2004&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<img src="istockphoto-1136904132-612x612-removebg-preview.png" alt="isolated" width="2000px"/>
 
 <p align="left">
-<a href="https://creativecommons.org/licenses/by-nc/4.0"><img align="right" style="padding-top: 7px;" src="https://licensebuttons.net/l/by-nc/3.0/88x31.png" width="72" /></a>&nbsp;<img align="right" style="padding-top: 7px;" src="https://user-images.githubusercontent.com/48355572/213894405-3eca405e-0c4b-41a6-aa8f-97cb62ae7176.png" width="70" />
+
 <img src="https://user-images.githubusercontent.com/48355572/234945747-bf397684-9a28-4601-b81a-c09deff53a49.gif" width="18px" height="14px">
-Regarding any issues, feel free to drop a mail at — <a href="mailto:arshtiwari12345@gmail.com"><b>arshtiwari12345@gmail.com</b></a>
+Regarding any issues, feel free to drop a mail at — <a href="mailto:mansibhandari3156@gmail.com"><b>mansibhandari3156@gmail.com</b></a>
 </p>
 
 
