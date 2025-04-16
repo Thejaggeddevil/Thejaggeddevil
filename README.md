@@ -149,6 +149,10 @@
 <img src="https://user-images.githubusercontent.com/48355572/234945747-bf397684-9a28-4601-b81a-c09deff53a49.gif" width="18px" height="14px">
 Regarding any issues, feel free to drop a mail at — <a href="mailto:mansibhandari3156@gmail.com"><b>mansibhandari3156@gmail.com</b></a>
 </p>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
