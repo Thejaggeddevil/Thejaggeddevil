@@ -26,8 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mansi____bhandari/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi3115) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mansibhandari3156) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mansi__Bhandari) 
 
 </div>
-![Mario Coding](https://user-images.githubusercontent.com/105844448/214626316-af1b5198-c26c-4005-8bcf-711744e7b089.gif)
-
+![Coding](https://github.com/user-attachments/assets/c34b83d0-080c-436d-bc73-6128741e8280)
 
 <br>
 <br>
