@@ -133,8 +133,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=thejaggeddevil&theme=darkhub)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--
 <div align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mansi_b3156&theme=nightowl&animated=true"width="100%" style="max-width: 250px; height: auto; alt="LeetCode Badges" />
+-->
 
 
 
