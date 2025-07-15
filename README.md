@@ -76,7 +76,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=firebase"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=firebase"/><img height="40" 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
@@ -143,6 +143,8 @@
 
 
 ---
+
+
 
 
 
