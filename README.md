@@ -48,7 +48,7 @@
 <br>
 </div>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Full Stack App Development Projects**
 
