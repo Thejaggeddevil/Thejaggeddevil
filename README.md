@@ -63,45 +63,47 @@
 
 [![An image of @thejaggeddevil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thejaggeddevil)](https://holopin.io/@thejaggeddevil)
 
-
 <div align="center">
 <table align="center">
+    <!-- Languages -->
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Languages:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=java,kotlin,python"/></td>
-    </tr>
-      <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,"/></td>
-    </tr>
+    </tr> <!-- Frontend -->
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=firebase"/><img height="40" 
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,nextjs,tailwind,materialui"/></td>
     </tr>
+<!-- Backend -->
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=firebase,nodejs,express,fastapi,flask"/></td>
+    </tr>    <!-- Database -->
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase"/></td>
     </tr>
+<!-- AI / ML -->
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">AI / ML:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></td>
     </tr>
+    <!-- Blockchain -->
     <tr>
-        <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Blockchain:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=solidity,ethereum"/></td>
     </tr>
+    <!-- DevOps & Tools -->
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">DevOps & Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,aws,vercel"/></td>
+    </tr>  <!-- Mobile -->
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Mobile:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,flutter"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=notion,androidstudio,firebase,figma,postman"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
-    </tr> 
 </table>
+</div>
 
 
 #  GitHub Stats
